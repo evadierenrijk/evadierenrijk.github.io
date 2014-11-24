@@ -1,0 +1,93 @@
+h1{
+	text-align: center;
+	color: #4E342E;
+	font-family: 'Amaranth', sans-serif;
+	font-size: 60px;
+	border: 0.05em solid #BDBDBD;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 40px;
+	padding-bottom: 100px;
+	margin-left: 110px;
+	margin-right: 110px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-image: url(https://farm6.staticflickr.com/5613/15822665642_708bbb6099_o.jpg);
+} 
+
+body{
+	background-color: #E1F5FE;
+	background-size: 1000px;
+}
+
+h2{
+	font-family: 'Amaranth', sans-serif;
+	text-align: center;
+	color: #4E342E;
+	font-size: 30px;
+	padding: 0px;
+	margin-top: 0px;
+	
+}
+
+p{
+	text-align: justify;
+	margin-left: 0px;
+	margin-right: 0px;
+	color: #4E342E;
+	font-family: 'Exo', sans-serif;
+	font-size: 14px;
+
+}
+
+ul{
+	font-family: 'Chewy', cursive;
+	font-size: 20px;
+	list-style-type: none;
+	text-align: center;
+	clear: left;
+	padding-top: 30px;
+	margin-left: 0px;
+	padding-left: 0px;
+	padding-right: 35px;
+
+
+}
+
+li{
+	color:#4E342E;
+	display: inline;
+	padding-right: 60px;
+	padding-left: 60px;
+	background-color: #4DB6AC;
+	margin-left: 20px;
+	margin-right:20px;
+}
+
+
+
+.tekstbox{
+	margin-left: 200px;
+	padding: 0px;
+	width: 30%;
+	float: left;
+	margin-top: 3px;
+	padding-top: 1px;
+	
+}
+
+.styling{
+	width: 40%;
+	float: left;
+}
+
+.styling img{
+	width: 310px;
+	margin-left: 70px;
+	margin-top: 50px;
+	
+}
+
+.totaal{
+	margin-left: 75px;
+}
